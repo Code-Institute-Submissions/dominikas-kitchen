@@ -51,3 +51,20 @@ Fontawesome https://fontawesome.com/start  – I have used font awesome to add t
 
 W3C CSS https://www.w3schools.com/css/ - I used this when I woul struggle to find the answer to my issue from the lessons provided.
 
+# Deployment
+I have used gitpod for this project and I submitted it to github. I did so by adding every file one by one and then committing the files to push them through to Github to be hosted. On github once all the chnages had been made and the final product was done I created a live version of the website using the master branch. Github offers a clone option where the repo can be cloned and used for offline viewing.
+
+# Credits
+All content on the page was written by myself.
+
+The photos I used came from a Google search and from the following websites:
+https://www.wideopeneats.com
+https://cravinghomecooked.com/
+https://www.lightspeedhq.co.uk/
+https://www.delish.com/
+
+I received inspiration for this project from a couple different websites and aspects of it that I enjoyed. Like the following 
+https://www.delish.com/
+https://tasty.co
+
+
