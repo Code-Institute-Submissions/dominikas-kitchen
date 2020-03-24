@@ -1,4 +1,4 @@
-## Dominika's Kitchen
+# Dominika's Kitchen
 
 This website is all about cooking and baking. There will be plenty of different types of meal with suitable replacements for allergies, gluten free or food preferences, like vegetarian vegan.  At the end of each recipe it will show how the food can be presented to make it look more appealing to the eye.
 
